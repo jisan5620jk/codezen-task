@@ -1,0 +1,11 @@
+
+.kzui-select__container {
+  margin: auto;
+  margin: 10% 0;
+}
+
+.kzui-select__container h1 {
+ text-align: center;
+ color: #fff;
+ font-size: 36px;
+}
